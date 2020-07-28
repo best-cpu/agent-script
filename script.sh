@@ -1,6 +1,6 @@
 #!/bin/bash
-Author: Alice Ekwen
-Date: July 2020
+Author: Alice B Ekwen
+Date: 07/28/20
 
 #Description: script to display system info
 lscpu

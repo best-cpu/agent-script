@@ -7,4 +7,5 @@ lscpu
 cat /etc/*release
 nproc
 lsblk
-
+uname
+uname -r
